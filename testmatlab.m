@@ -2,4 +2,5 @@
 % @body try fixing it matlab
 % new line
 c = 2 +3;
+d=c
 d=c;
